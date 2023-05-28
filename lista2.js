@@ -50,5 +50,5 @@ let miLista = [
 
     console.log(miLista);
     console.log(eliminarContacto());
-    console.log(añadirContacto("Lola Perez"));
+    console.log(añadirContacto("Leonor Perez"));
     console.log(imprimirList());
